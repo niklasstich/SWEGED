@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Ex1
+﻿namespace Ex1
 {
     public interface IObserver
     {

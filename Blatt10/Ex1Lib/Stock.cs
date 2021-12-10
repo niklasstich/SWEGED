@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace Ex1
 {
     public class Stock : Subject

@@ -1,5 +1,3 @@
-using System;
-
 namespace Ex1
 {
     public class RandomStockPrice : StockPrice
